@@ -27,6 +27,6 @@ Consultas SQL optimizadas para obtener información relevante sobre la carrera.
 Este proyecto facilita el manejo de información histórica y actual de la Vuelta a España, permitiendo un análisis detallado de la competencia.
 
 👥Autores del Proyecto
-- Kevin Torres - kevintorresleonel
+- Kevin Torres - @kevintorresleonel
 - Jonathan Vizcaino -
 - Yesid Soto - @Yes577
