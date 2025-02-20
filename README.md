@@ -28,5 +28,5 @@ Este proyecto facilita el manejo de información histórica y actual de la Vuelt
 
 👥Autores del Proyecto
 - Kevin Torres - @kevintorresleonel
-- Jonathan Vizcaino -
+- Jonathan Vizcaino - @JonathanV014
 - Yesid Soto - @Yes577
